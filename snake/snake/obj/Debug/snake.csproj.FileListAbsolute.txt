@@ -1,0 +1,6 @@
+D:\_PYTHON\OOP_snake\snake\snake\bin\Debug\snake.exe.config
+D:\_PYTHON\OOP_snake\snake\snake\bin\Debug\snake.exe
+D:\_PYTHON\OOP_snake\snake\snake\bin\Debug\snake.pdb
+D:\_PYTHON\OOP_snake\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+D:\_PYTHON\OOP_snake\snake\snake\obj\Debug\snake.exe
+D:\_PYTHON\OOP_snake\snake\snake\obj\Debug\snake.pdb
